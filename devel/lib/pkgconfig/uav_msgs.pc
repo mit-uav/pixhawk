@@ -1,0 +1,8 @@
+prefix=/home/sam/Desktop/pixhawk/devel
+
+Name: uav_msgs
+Description: Description of uav_msgs
+Version: 0.0.0
+Cflags: -I/home/sam/Desktop/pixhawk/devel/include
+Libs: -L/home/sam/Desktop/pixhawk/devel/lib 
+Requires: message_runtime

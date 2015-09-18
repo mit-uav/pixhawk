@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "uav_msgs")
+set(uav_msgs_MAINTAINER "kris <kris@todo.todo>")
+set(uav_msgs_DEPRECATED "")
+set(uav_msgs_VERSION "0.0.0")
+set(uav_msgs_BUILD_DEPENDS "message_generation")
+set(uav_msgs_RUN_DEPENDS "message_runtime")
+set(uav_msgs_BUILDTOOL_DEPENDS "catkin")

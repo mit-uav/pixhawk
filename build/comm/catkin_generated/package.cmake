@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "comm")
+set(comm_MAINTAINER "sam <sam@todo.todo>")
+set(comm_DEPRECATED "")
+set(comm_VERSION "0.0.0")
+set(comm_BUILD_DEPENDS )
+set(comm_RUN_DEPENDS )
+set(comm_BUILDTOOL_DEPENDS "catkin")

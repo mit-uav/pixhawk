@@ -1,0 +1,8 @@
+prefix=/home/sam/Desktop/pixhawk/devel
+
+Name: comm
+Description: Description of comm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sam/Desktop/pixhawk/devel/lib 
+Requires: 
