@@ -1,0 +1,10 @@
+src/comm/*
+src/iarc/*
+src/iarc-ai/*
+src/uav-msgs/*
+src/vision/*
+src/ai/*
+src/bayesian/*
+src/mavros-mod/*
+src/test-data/*
+src/test_data/*
